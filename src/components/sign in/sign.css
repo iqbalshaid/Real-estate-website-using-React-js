@@ -1,0 +1,68 @@
+ .conatiner{
+    text-align: center;
+    margin: 20px 0px;
+    border: 1px solid white;
+    margin: 50px 300px;
+    box-shadow: 0 0 30px 0 rgb(144, 116, 116,40%);
+    
+ }
+ .text1{
+    text-align: center;
+ }
+ .text1 h6{
+    margin-top: 20px;
+    color: green;
+    font-size: 25px;
+    font-weight: 600;
+ }
+ .text1 span{
+    font-size: 20px;
+    font-weight: 600;
+    
+    color:brown;
+ }
+ .box1{
+    box-shadow:0 0 30px 0 rgb(144, 116, 116,40%);
+    margin: 50px 120px;
+ }
+ .box1 .input1 label{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 80px;
+    
+    font-size: 30px;
+    color: gray;
+ }
+ .box1 .input1 input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+
+    padding: 10px 0px;
+    
+    font-size: 20px;
+    background-color:rgb(234, 229, 229);
+    border-radius: 10px;
+ }
+ .box1 .input2 label{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 40px;
+    
+    font-size: 30px;
+    color: gray;
+ }
+ .box1 .input2 input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 80px;
+
+    padding: 10px 0px;
+    
+    font-size: 20px;
+    background-color:rgb(234, 229, 229);
+    border-radius: 10px;
+ }
+ .box1 button{
+    margin: 20px 0px;
+ }
